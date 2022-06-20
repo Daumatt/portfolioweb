@@ -1,0 +1,54 @@
+body{
+    background-image: url(gif1.jpg);
+    background-size: cover;
+}
+
+.box1{
+    /* width:200px; */
+    background-color: aqua;
+    text-align: center;
+    border: 1px solid aqua;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    justify-content: center;
+}
+.robo{
+    text-align: center;
+    padding: 10px;
+}
+.border-line{
+    border: 1px solid red;
+    overflow-y: scroll;
+    margin-top: 5rem;
+    height: 40rem;
+    width: 100%;
+}
+.box{
+    display: flex;
+    /* margin-left: 200px; */
+    justify-content: center;
+}
+
+.image{
+    margin:50px
+}
+.box2{
+    display: flex;
+    /* margin-left: 200px; */
+    justify-content: center;
+}
+.box3{
+    display: flex;
+    /* margin-left: 420px; */
+    justify-content: center;
+}
+.h3
+{
+    text-align: center;
+}
+.robo h2{
+    font-size: x-large;
+    font-weight: 800;
+    padding-top: 3rem;
+}
