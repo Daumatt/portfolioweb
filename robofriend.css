@@ -1,6 +1,7 @@
 body{
-    background-image: url(gif1.jpg);
+    background-image: url(gif7.gif);
     background-size: cover;
+    /* background-repeat: repeat; */
 }
 
 .box1{
@@ -12,6 +13,8 @@ body{
     margin-top: 20px;
     margin-left: 10px;
     justify-content: center;
+    padding: 32px;
+    margin-right: 20px;
 }
 .robo{
     text-align: center;
@@ -28,6 +31,7 @@ body{
     display: flex;
     /* margin-left: 200px; */
     justify-content: center;
+    /* padding: 50px; */
 }
 
 .image{
@@ -51,4 +55,8 @@ body{
     font-size: x-large;
     font-weight: 800;
     padding-top: 3rem;
+}
+h2{
+    color: brown;
+    /* text-: capitalize; */
 }
